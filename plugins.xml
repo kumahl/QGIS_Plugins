@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<plugins>
+    <pyqgis_plugin name="cadastreTool_2018" version="1.01">
+        <description>cadastreTool_2018_v1.01</description>
+        <homepage></homepage>
+        <qgis_minimum_version>2.18</qgis_minimum_version>
+        <file_name>cadastreTool_2018.zip</file_name>
+        <author_name>kumahl</author_name>
+        <!--<download_url>http://idv.sinica.edu.tw/kumahl/QGIS_plugins/cadastreTool_2018.zip</download_url>-->
+        <download_url>https://drive.google.com/open?id=1bgV3kt3CH3a4P3vq4_wYGiVOnWFjAip6</download_url>
+    </pyqgis_plugin>		
+    <pyqgis_plugin name="imageClassify" version="1.8">
+        <description>imageClassify_v1.8</description>
+        <homepage></homepage>
+        <qgis_minimum_version>2.18</qgis_minimum_version>
+        <file_name>image_classify_tools.zip</file_name>
+        <author_name>kumahl</author_name>
+        <!--<download_url>http://idv.sinica.edu.tw/kumahl/QGIS_plugins/image_classify_tools.zip</download_url>-->
+        <download_url>https://drive.google.com/open?id=17C-S8S2GmdqBUGVey2xsTJmL3s-_rRNL</download_url>
+    </pyqgis_plugin>		
+</plugins>
